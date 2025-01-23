@@ -18,5 +18,4 @@ Feel free to check out my repositories and get in touch if you'd like to work to
 ## 🌐 Let's Connect
 - [LinkedIn](#) (www.linkedin.com/in/muhammad-ahmad-76b0032a8)
 - [Instagram](#) (https://www.instagram.com/m_ahmad_136?igsh=MW9tZHE0bnQyeHd2OQ==)
-- [TikTok](#) (https://www.tiktok.com/@__muhammad_ahmad_?_t=8ovJgCna0NJ&_r=1)
 - [Discord](#) (ahmad710z)
