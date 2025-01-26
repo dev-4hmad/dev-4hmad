@@ -1,21 +1,48 @@
-## 👋 Hi, I'm Muhammad Ahmad
+# Hi there! 👋 I'm Muhammad Ahmad  
 
-I'm a Computer Science student currently studying in Pakistan. My passion lies in software engineering and cybersecurity, and I'm driven by a deep enthusiasm for technology and problem-solving. I'm constantly learning and striving to enhance my skills in these fields, aiming to become a proficient software engineer and cybersecurity expert.
+### 👨‍💻 About Me  
 
-💻 I'm eager to tackle challenging projects, whether it's developing software solutions or securing systems. I'm open to opportunities where I can apply my knowledge and contribute to impactful work.
+I'm a **Bachelor of Computer Science** student passionate about technology and innovation. My goal is to become a skilled **Software Engineer** and a **Cybersecurity Expert** while continuously growing as a professional.  
 
-📚 Currently, I'm diving deep into programming, learning new technologies, and exploring the vast world of cybersecurity. I'm excited to collaborate on innovative projects and connect with like-minded professionals.
+### 🚀 Skills & Expertise  
 
-Feel free to check out my repositories and get in touch if you'd like to work together or discuss ideas. Let's build something great!
+- **Languages & Tools:**  
+  - 🌐 Web Development: HTML, CSS, JavaScript, React  
+  - 🐍 Programming: Python, C++  
+  - 🖥️ Systems: Linux (proficient user), Windows  
 
-## 🚀 Skills & Interests
-- Software Development
-- Cybersecurity
-- Problem Solving
-- Open Source Contribution
-- Continuous Learning
+- **Core Competencies:**  
+  - Creative problem solver  
+  - Effective leader and team player  
+  - Excellent situation handler  
+  - Strong grip on the English language (verbal & written)  
 
-## 🌐 Let's Connect
-- [LinkedIn](#) (www.linkedin.com/in/muhammad-ahmad-76b0032a8)
-- [Instagram](#) (https://www.instagram.com/m_ahmad_136?igsh=MW9tZHE0bnQyeHd2OQ==)
-- [Discord](#) (ahmad710z)
+- **Cybersecurity:**  
+  - Currently expanding my knowledge in network security and ethical hacking  
+
+### 🎯 My Strengths  
+
+- Strong foundational knowledge of computer systems  
+- Quick learner, adaptive, and always eager to tackle new challenges  
+- Dedicated to delivering efficient and innovative solutions  
+
+### 🌱 What I'm Currently Learning  
+
+- Cybersecurity fundamentals and practical skills  
+- Advanced concepts in React and modern web development
+- Object-oriented programming especially Python 
+
+### 🎯 Future Goals  
+
+- Build impactful projects that solve real-world problems  
+- Contribute to open-source projects  
+- Excel in software development and cybersecurity  
+
+### 🌐 Let's Connect  
+
+- **LinkedIn:** [www.linkedin.com/in/muhammad-ahmad-tech-guy]  
+- **GitHub:** [github.com/ahmad123m](https://github.com/ahmad123m)
+
+---
+
+💡 **Fun Fact:** I love exploring technology, enjoy problem-solving, and am passionate about building a brighter future through innovation!  
