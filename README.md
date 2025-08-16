@@ -9,7 +9,7 @@ I'm a **Bachelor of Computer Science** student passionate about technology and i
 - **Languages & Tools:**  
   - 🌐 Web Development: HTML, CSS, JavaScript, React  
   - 🐍 Programming: Python, C++  
-  - 🖥️ Systems: Linux (proficient user), Windows  
+  - 🖥️ Systems: Windows, Linux (Ubuntu, Arch, Kali) 
 
 - **Core Competencies:**  
   - Creative problem solver  
@@ -17,20 +17,11 @@ I'm a **Bachelor of Computer Science** student passionate about technology and i
   - Excellent situation handler  
   - Strong grip on the English language (verbal & written)  
 
-- **Cybersecurity:**  
-  - Currently expanding my knowledge in network security and ethical hacking  
-
 ### 🎯 My Strengths  
 
 - Strong foundational knowledge of computer systems  
 - Quick learner, adaptive, and always eager to tackle new challenges  
 - Dedicated to delivering efficient and innovative solutions  
-
-### 🌱 What I'm Currently Learning  
-
-- Cybersecurity fundamentals and practical skills  
-- Advanced concepts in React and modern web development
-- Object-oriented programming especially Python 
 
 ### 🎯 Future Goals  
 
