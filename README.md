@@ -1,39 +1,14 @@
-# Hi there! 👋 I'm Muhammad Ahmad  
+# Muhammad Ahmad
 
-### 👨‍💻 About Me  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahmad9099x) 
 
-I'm a **Bachelor of Computer Science** student passionate about technology and innovation. My goal is to become a skilled **Software Engineer** and a **Cybersecurity Expert** while continuously growing as a professional.  
-
-### 🚀 Skills & Expertise  
-
-- **Languages & Tools:**  
-  - 🌐 Web Development: HTML, CSS, JavaScript, React  
-  - 🐍 Programming: Python, C++  
-  - 🖥️ Systems: Windows, Linux (Ubuntu, Arch, Kali) 
-
-- **Core Competencies:**  
-  - Creative problem solver  
-  - Effective leader and team player  
-  - Excellent situation handler  
-  - Strong grip on the English language (verbal & written)  
-
-### 🎯 My Strengths  
-
-- Strong foundational knowledge of computer systems  
-- Quick learner, adaptive, and always eager to tackle new challenges  
-- Dedicated to delivering efficient and innovative solutions  
-
-### 🎯 Future Goals  
-
-- Build impactful projects that solve real-world problems  
-- Contribute to open-source projects  
-- Excel in software development and cybersecurity  
-
-### 🌐 Let's Connect  
-
-- **LinkedIn:** [www.linkedin.com/in/muhammad-ahmad-tech-guy]  
-- **GitHub:** [github.com/ahmad123m](https://github.com/ahmad123m)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmad123m&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ahmad123m&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad123m&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-💡 **Fun Fact:** I love exploring technology, enjoy problem-solving, and am passionate about building a brighter future through innovation!  
+[![](https://visitcount.itsvg.in/api?id=ahmad123m&icon=0&color=0)](https://visitcount.itsvg.in)
