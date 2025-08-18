@@ -16,16 +16,16 @@
 ### GitHub Stats:
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmad123m&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" height="180em" style="margin-right: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmad123m&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" height="150" style="margin-right: 20px;" />
   </span>
   <span>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ahmad123m&theme=gotham&hide_border=false" height="180em" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ahmad123m&theme=gotham&hide_border=false" height="150" />
   </span>
 </p>
 
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad123m&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad123m&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
   </span>
 </p>
 
