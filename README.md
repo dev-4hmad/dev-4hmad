@@ -1,6 +1,5 @@
 ### Muhammad Ahmad
-- Computer Science
-- Daily learning
+
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -13,7 +12,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p><br>
 
-### GitHub Stats:
+#### GitHub Stats:
 <p align="center">
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=ahmad123m&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" height="150" style="margin-right: 20px;" />
@@ -29,8 +28,5 @@
   </span>
 </p>
 
-## Socials:
-<div align="center">
-
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahmad9099x) 
-  </div>
+#### Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahmad9099x) 
