@@ -1,5 +1,6 @@
 ### Muhammad Ahmad
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmad123m&color=blue&style=flat-square" alt="visitor badge"/> </p>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -12,6 +13,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p><br>
 
+
 #### GitHub Stats:
 <p align="center">
   <span>
@@ -21,7 +23,6 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=ahmad123m&theme=gotham&hide_border=false" height="150" />
   </span>
 </p>
-
 
 #### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahmad9099x) 
