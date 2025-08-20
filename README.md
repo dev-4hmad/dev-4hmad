@@ -15,7 +15,7 @@
 #### GitHub Stats:
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad123m&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad123m&theme=gotham&hide_border=false&layout=compact&cache_seconds=1800" height="150" />
   </span>
   <span>
     <img src="https://nirzak-streak-stats.vercel.app/?user=ahmad123m&theme=gotham&hide_border=false" height="150" />
