@@ -1,6 +1,6 @@
 ### Muhammad Ahmad
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmad123m&color=blue&style=flat-square" alt="visitor badge"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dev-4hmad&color=blue&style=flat-square" alt="visitor badge"/> </p>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -17,10 +17,10 @@
 #### GitHub Stats:
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad123m&theme=gotham&hide_border=false&layout=compact&cache_seconds=1800" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-4hmad&theme=gotham&hide_border=false&layout=compact&cache_seconds=1800" height="150" />
   </span>
   <span>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ahmad123m&theme=gotham&hide_border=false" height="150" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=dev-4hmad&theme=gotham&hide_border=false" height="150" />
   </span>
 </p>
 
