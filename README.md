@@ -26,3 +26,5 @@
 
 #### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmad9099x) 
+[![Patreon](https://img.shields.io/badge/Patreon-%23000000.svg?logo=Patreon&logoColor=white)](https://www.patreon.com/c/ahmad9099x)
+
