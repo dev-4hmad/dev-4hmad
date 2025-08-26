@@ -27,6 +27,5 @@
 #### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmad9099x) 
 
-#### Support me
-[![Open Collective](https://img.shields.io/badge/Open%20Collective-%23DA552F.svg?logo=OpenCollective&logoColor=white)](https://opencollective.com/dev-4hmad)
+#### Support me:
 [![Patreon](https://img.shields.io/badge/Patreon-%23000000.svg?logo=Patreon&logoColor=white)](https://www.patreon.com/c/ahmad9099x)
