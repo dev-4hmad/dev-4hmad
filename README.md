@@ -17,9 +17,6 @@
 #### GitHub Stats:
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-4hmad&theme=gotham&hide_border=false&layout=compact&cache_seconds=1800" height="150" />
-  </span>
-  <span>
     <img src="https://nirzak-streak-stats.vercel.app/?user=dev-4hmad&theme=gotham&hide_border=false" height="150" />
   </span>
 </p>
